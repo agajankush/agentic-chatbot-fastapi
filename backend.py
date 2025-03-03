@@ -1,4 +1,4 @@
-# 1. Setup Pydantic Model 9Schema Validation)
+# 1. Setup Pydantic Model (Schema Validation)
 from pydantic import BaseModel
 from typing import List
 

@@ -8,6 +8,7 @@
     1. Setup Pydantic Model (Schema Validation)
     2. Setup AI from FrontEnd Request
     3. Run app and Explore Swagger UI docs
-## Phase 3 (FrontEnd) -> StreamLit, requests
+## Phase 3 (FrontEnd) -> StreamLit, requests, Uvicorn
     1. Setup UI with streamlit (model provider, model, system prompt, web search, query)
     2. Connect with backend via URL
+
